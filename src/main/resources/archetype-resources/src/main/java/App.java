@@ -15,6 +15,7 @@ public class App
         System.out.println( "Hello World Lastone!" );
         System.out.println( "Hello World One More Times!" );
         System.out.println( "Hello World Hot-fix Test!" );
-        System.out.println( "Hello World Push Test!" )
+        System.out.println( "Hello World Push Test!" );
+        git@github.com:2006-wy/git-test.git
     }
 }
